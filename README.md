@@ -2,7 +2,9 @@
 
 ## Commands
 
-- \> Function collector: it opens a webview, collecting functions in the active file
+- \> **Function collector**: it opens a webview, collecting functions in the active file
+
+![](https://github.com/FrancescoDiCursi/Function-collector-VS-plugin/blob/main/gifs/vs%20function%20collector.gif)
   
 ## Requirements
 
